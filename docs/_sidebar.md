@@ -1,4 +1,4 @@
-* [服务器IIS功能添加](README)
+* [服务器IIS功能添加](iis)
 * [Mysql数据库还原（可选）](mysql)
 * [SQL Server数据库安装](sqlserversetup)
 * [SQL Server数据库还原](sqlserverrestore)
